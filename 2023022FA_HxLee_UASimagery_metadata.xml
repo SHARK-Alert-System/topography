@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Jin-Si R. Over</origin>
+        <pubdate>20231204</pubdate>
+        <title>Low-altitude aerial imagery collected from a UAS at Nauset Light Beach, Eastham, MA on September 14 and 20, 2023, pre and post Hurricane Lee</title>
+        <edition>1.0</edition>
+        <geoform>imagery and tabular data</geoform>
+        <serinfo>
+          <sername>data release</sername>
+          <issue>DOI:10.5066/P9GA5RJD</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Woods Hole Coastal and Marine Science Center, Woods Hole, MA</pubplace>
+          <publish>U.S. Geological Survey, Coastal and Marine Hazards and Resources Program</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9GA5RJD</onlink>
+        <onlink>https://www.sciencebase.gov/catalog/item/6511a2edd34e823a0275dbda</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Jin-Si R. Over</origin>
+            <origin>Chris R. Sherwood</origin>
+            <origin>Mira M. Anderberg</origin>
+            <origin>Marie K. Bartlett</origin>
+            <origin>Jennifer M. Cramer</origin>
+            <pubdate>2023</pubdate>
+            <title>Topographic data, imagery, and ground control data collected in September 2023 pre and post Hurricane Lee at Head of the Meadow, Marconi, and Nauset Light beaches, Cape Cod National Seashore, Massachusetts</title>
+            <edition>1.0</edition>
+            <geoform>digital files</geoform>
+            <serinfo>
+              <sername>data release</sername>
+              <issue>DOI:10.5066/P9GA5RJD</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Over, J.R., Sherwood, C.R., Anderberg, M.M., Bartlett, M.K., and Cramer, J.M., 2023, Topographic data, imagery, and ground control data collected in September 2023 pre and post Hurricane Lee at Head of the Meadow, Marconi, and Nauset Light beaches, Cape Cod National Seashore, Massachusetts: U.S Geological Survey data release, https://doi.org/10.5066/P9GA5RJD.</othercit>
+            <onlink>https://doi.org/10.5066/P9GA5RJD</onlink>
+            <onlink>https://www.sciencebase.gov/catalog/item/650dc88ed34e823a027456da</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The data in this release map Marconi Beach, Head of the Meadow Beach, and Nauset Light Beach, in Cape Cod National Seashore (CACO), Massachusetts, before and after Hurricane Lee in September 2023. U.S Geological Survey personnel conducted field surveys to collect topographic data using global navigation satellite systems (GNSS) at all three beaches. In addition, at Nauset Light Beach, an uncrewed aerial system (UAS) was used to collect images with a Ricoh GRII camera for use in structure from motion photogrammetry. High-precision GNSS targets (AeroPoints) were used as ground control points (GCPs) for the UAS photogrammetry. Agisoft Metashape (v. 2.0.1) software was used to create a digital surface model and an orthomosaic from the collected imagery and GCPs. Photos were taken with smartphones for environmental context. This work was conducted under National Park Service Research Permit CACO-2020-SCI-0021.</abstract>
+      <purpose>Imagery is collected to create Digital surface models (DSM) using structure from motion (SfM) photogrammetry to observe ground conditions and change over time before and after Hurricane Lee. Images are to be used with AeroPoint data.</purpose>
+      <supplinf>Images can be viewed on the USGS Imagery Data System without downloading them here https://cmgds.marine.usgs.gov/idsviewer/data_release/10.5066-P9GA5RJD. For more information about the WHCMSC Field Activity, see https://cmgds.marine.usgs.gov/fan_info.php?fan=2023-022-FA. These data are also related to USGS field activity 2023-023-FA, which collected pressure-sensor measurements at these three beaches.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>20230914</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20230920</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition; represents the state of the beach on September 14 and 20, 2023.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Not planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-69.95041276</westbc>
+        <eastbc>-69.95295389</eastbc>
+        <northbc>41.86165466</northbc>
+        <southbc>41.85643504</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>U.S. Geological Survey</themekey>
+        <themekey>USGS</themekey>
+        <themekey>Coastal and Marine Hazards and Resources Program</themekey>
+        <themekey>CMHRP</themekey>
+        <themekey>Woods Hole Coastal and Marine Science Center</themekey>
+        <themekey>WHCMSC</themekey>
+        <themekey>shoreline photographs</themekey>
+        <themekey>low-altitude aerial imagery</themekey>
+        <themekey>Hurricane Lee</themekey>
+        <themekey>National Park Service</themekey>
+        <themekey>UAS</themekey>
+        <themekey>geotagged photos</themekey>
+      </theme>
+      <theme>
+        <themekt>Marine Realms Information Bank (MRIB) keywords</themekt>
+        <themekey>Global Positioning System (GPS) observations</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>photography</themekey>
+        <themekey>image collections</themekey>
+        <themekey>remote sensing</themekey>
+        <themekey>aerial photography</themekey>
+        <themekey>geolocation measurement</themekey>
+        <themekey>geospatial datasets</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>oceans</themekey>
+        <themekey>location</themekey>
+        <themekey>elevation</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:6511a2edd34e823a0275dbda</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>United States</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Cape Cod</placekey>
+      </place>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Nauset Light Beach</placekey>
+        <placekey>Cape Cod National Seashore</placekey>
+        <placekey>Eastham</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Public domain data from the U.S. Government are freely redistributable with proper metadata and source attribution. Please recognize the U.S. Geological Survey (USGS) as the source of this information.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jin-Si R. Over</cntper>
+          <cntorg>U.S. Geological Survey, Woods Hole Coastal and Marine Science Center</cntorg>
+        </cntperp>
+        <cntpos>Geographer</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>384 Woods Hole Rd.</address>
+          <city>Woods Hole</city>
+          <state>MA</state>
+          <postal>02543-1598</postal>
+        </cntaddr>
+        <cntvoice>508-548-8700 x2297</cntvoice>
+        <cntemail>jover@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>https://www.sciencebase.gov/catalog/file/get/6511a2edd34e823a0275dbda?name=2023022FA_HxLee_UASimagery_browse.JPG&amp;allowOpen=true</browsen>
+      <browsed>Image of Nauset Light Beach, Eastham, MA on September 20, 2023</browsed>
+      <browset>JPEG</browset>
+    </browse>
+    <native>EXIF Tool v. 12.06, Namexif v. 2.4</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The camera (Ricoh GRII) used on the 3DR Solo acquired 24 megapixel photos, with file sizes generally between 5 and 7 MB on disc, depending on image complexity. Some images were blurry due to movement and changing low light conditions.</attraccr>
+    </attracc>
+    <logic>Flights were flown to map the Nauset Light Beach shoreline and bluff face in Eastham, MA, on September 14 and 20, 2023.</logic>
+    <complete>Photographs were captured every 2 seconds but only 1025 are provided; very blurry images and those taken while the UAS took off and landed were removed. All photos included have location information.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Though the images do not represent spatial data, the spatial information is embedded in the photo and available in the EXIF header of each image, which is provided in the imagery navigation file (2023022FA_NLB_HxLee_imagelocations.csv) in the larger work citation. The location information of each image was calculated in Agisoft Metashape after processing the ortho products, the accuracy of the estimated positions is less than 1 meter.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Though the images do not represent spatial data, the spatial information is embedded in the photo and available in the EXIF header of each image, which is provided in the imagery navigation file (2023022FA_NLB_HxLee_imagelocations.csv) in the larger work citation. The location information of each image was calculated in Agisoft Metashape after processing the ortho products, the accuracy of the estimated positions is less than 1 meter.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>These JPEG images were collected with a camera (Ricoh GR11) attached to a 3DR Solo drone so that the camera triggered every 2 seconds and the camera faced downward, one flight on September 20 was adjusted so that the camera was at an angle. The drone was programmed to fly at 7 m/s along transects 25 meters apart with 70% overlap and sidelap. The oblique flight on September 20 was flown manually. Flights were done by remote pilots J. Over and J. Cramer.</procdesc>
+        <procdate>202309</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The positions of each image were estimated from the Agisoft Metashape SfM results, see the larger work citation digital surface model metadata for more information. The positions are provided in the 2023022FA_NLB_HxLee_imagelocations.csv in multiple coordinate systems, see below, but only the latitude, longitude, and altitude (NAVD88) were embedded in the image header using exiftools.</procdesc>
+        <procdate>202309</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The images acquired with the camera were geotagged and processed to add additional information required by the USGS to the EXIF headers using ExifTools (https://exiftool.org/, version: 12.06), and the files were renamed to a unique identifier using Namexif (http://www.digicamsoft.com/softnamexif.html, version 2.1) to avoid any possibility of duplicate names. These steps are described here. For more information on the EXIF tags here and automatically populated by the camera see https://exiftool.org/TagNames/EXIF.html
+
+1. Using the positions from the previous step, ExifTools was used to tag each photo with the following tags: Credit, Copyright, Contact, UsageTerms, ImageDescription, Artist, XMP:ExternalMetadataLink, XMP:UsageTerms, XMP:AttributionURL, XMP:PreservedFilename, GPSTimeStamp, GPSDateStamp, GPSAltitudeRef, GPSLatitudeRef, GPSLongitudeRef, GPSAreaInfo, GPSMapDatum, GPSLatitude, GPSLongitude, and GPSAltitude stored in a CSV file with the command:' exiftool -csv="C:\directory\name\Geotags_EXIF.csv" C:\directory\name\of\photos *.JPG
+
+The first row of the CSV are the tag names; the first column is SourceName (unique image names).
+
+To read out the photo information to a CSV when in the directory with the photos the command is: exiftool -csv *.JPG &gt; allheaders_out.csv
+
+2. All the JPEG images were renamed with Namexif (https://us.digicamsoft.com/softnamexif.html v 2.2 accessed April 2020) to ensure unique filenames and compliance with the USGS Coastal and Marine Hazards and Resources Program's best practices for image naming convention. Images were renamed with the field survey ID prefix; flight number, and ID that distinguishes USGS cameras by make/camera number, the image acquisition date, coordinated universal time (UTC) in ISO8601 format, and a suffix with the original image name. For example, image name '2023022FA_f##r02_20230914T134646Z_####.jpg', 2023022FA is the field activity ID, f## is the flight number, r02 is the camera make and ID, and 20230914 is the UTC date in the format YYYYMMDD. A 'T' is used to separate UTC date from UTC time in format HHMMSS followed by a Z, and ####.jpg is the original raw photo name appended to the end of the new filename.</procdesc>
+        <procdate>202311</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jin-Si R. Over</cntper>
+              <cntorg>U.S. Geological Survey, Woods Hole Coastal and Marine Science Center</cntorg>
+            </cntperp>
+            <cntpos>Geographer</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>U.S. Geological Survey</address>
+              <address>384 Woods Hole Rd.</address>
+              <city>Woods Hole</city>
+              <state>MA</state>
+              <postal>02543-1598</postal>
+            </cntaddr>
+            <cntvoice>508-548-8700 x2297</cntvoice>
+            <cntemail>jover@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.00000001</latres>
+        <longres>0.00000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983 (National Spatial Reference System 2011)</horizdn>
+        <ellips>GRS_1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>North American Vertical Datum of 1988</altdatum>
+        <altres>0.001</altres>
+        <altunits>meters</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>2023022FA_NLB_preHxLee_UAS_imagery.zip</enttypl>
+        <enttypd>Photos (310) taken from the Ricoh GRII on September 14, pre Hurricane Lee.</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>2023022FA_NLB_postHxLee_UAS_imagery.zip</enttypl>
+        <enttypd>Photos (547) taken from the Ricoh GRII on September 20, post Hurricane Lee.</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>2023022FA_NLB_HxLee_imagelocations.csv</enttypl>
+        <enttypd>The CSV file contains 857 records of the processed UAS location data of each image (approximate position of the camera at the moment of each image capture).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>ImageName</attrlabl>
+        <attrdef>File names of individual images, see the Data_Quality_Information and Process_Description for file naming convention.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>character string</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date photos were collected in MM/DD/YYYY where MM is month, DD is the day, and YYYY is the year</attrdef>
+        <attrdefs>Processor Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>9/14/2023</rdommin>
+            <rdommax>9/20/2023</rdommax>
+            <attrunit>MMDDYYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Time_UTC</attrlabl>
+        <attrdef>Time in HH:MM:SS, where HH is the hour, MM is the minute, and SS is the seconds of when the image was taken in coordinated universal time (UTC).</attrdef>
+        <attrdefs>processor defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>13:46:48</rdommin>
+            <rdommax>14:40:18</rdommax>
+            <attrunit>HH:MM:SS UTC</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude NAD83[2011]</attrlabl>
+        <attrdef>SfM estimated latitude of camera in decimal degrees (NAD83[2011]).</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>41.85643504</rdommin>
+            <rdommax>41.86165466</rdommax>
+            <attrunit>Decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude NAD83[2011]</attrlabl>
+        <attrdef>SfM estimated longitude in decimal degrees (NAD83[2011]).</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-69.95295389</rdommin>
+            <rdommax>-69.95041276</rdommax>
+            <attrunit>Decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ellipsoid NAD83[2011]</attrlabl>
+        <attrdef>SfM estimated height in meters based on the NAD83(2011) reference ellipsoid.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.229</rdommin>
+            <rdommax>78.251</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting_19N</attrlabl>
+        <attrdef>SfM estimated Y-coordinate in NAD83(2011)/UTM Zone 19N.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>420907.363</rdommin>
+            <rdommax>421112.435</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing_19N</attrlabl>
+        <attrdef>SfM estimated X-coordinate in NAD83(2011)/UTM Zone 19N.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4634274.028</rdommin>
+            <rdommax>4634853.962</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Altitude_NAVD88</attrlabl>
+        <attrdef>SfM estimated Z-coordinate using NAVD88 reference with geoid 18.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>21.614</rdommin>
+            <rdommax>106.095</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>The attributes Latitude NAD83[2011], Longitude NAD83[2011], and Altitude_NAVD88 were included in the image headers as GPSLatitude, GPSLongitude, and GPSAltitude, respectively. A GPSMapDatum header was also included in the images specifying that the latitude and longitude are in NAD83(2011) and altitude is relative to the NAD82(2011) ellipsoid. Range domains are based on all imagery in the zip files.</eaover>
+      <eadetcit>USGS Field Activity 2023-022-FA</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+        </cntaddr>
+        <cntvoice>1-888- 275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>The Windows 10 zip files 2023022FA_NLB_preHxLee_UAS_imagery.zip and 2023022FA_NLB_postHxLee_UAS_imagery.zip contain images of Nauset Light beach before and after Hurricane Lee and 2023022FA_NLB_HxLee_imagelocations.csv contains the image locations for both zip files.</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty. The USGS or the U.S. Government shall not be held liable for improper or incorrect use of the data described and/or contained herein.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>JPEG</formname>
+          <formvern>1.0.0</formvern>
+          <formspec>JPEG</formspec>
+          <formcont>The 2023022FA_NLB_preHxLee_UAS_imagery.zip file contains 310 JPEGs and 2023022FA_NLB_postHxLee_UAS_imagery.zip contains 547 JPEGs.</formcont>
+          <filedec>Use WinZip, 7zip, Peazip or pkUnzip</filedec>
+          <transize>4720</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://www.sciencebase.gov/catalog/item/6511a2edd34e823a0275dbda</networkr>
+                <networkr>https://www.sciencebase.gov/catalog/file/get/6511a2edd34e823a0275dbda</networkr>
+                <networkr>https://cmgds.marine.usgs.gov/idsviewer/data_release/10.5066-P9GA5RJD</networkr>
+                <networkr>https://doi.org/10.5066/P9GA5RJD</networkr>
+              </networka>
+            </computer>
+            <accinstr>The first link in the list above is to the child page where files can be downloaded individually, the second link is to directly download all the data on the page, the third link is to the Imagery Data System where the photos can be viewed without downloading them, and the fourth link is the doi to the main publication. Note that the imagery zip file is over 2 GB so if the second link is not currently supported, use the first link to choose files to download.</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>Exported from Excel Office 365 16.01</formvern>
+          <formcont>The CSV file 2023022FA_NLB_HxLee_imagelocations.csv contains photo location information.</formcont>
+          <transize>0.02</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://www.sciencebase.gov/catalog/item/6511a2edd34e823a0275dbda</networkr>
+                <networkr>https://www.sciencebase.gov/catalog/file/get/6511a2edd34e823a0275dbda</networkr>
+                <networkr>https://doi.org/10.5066/P9GA5RJD</networkr>
+              </networka>
+            </computer>
+            <accinstr>The first link in the list above is to the child page where files can be downloaded individually, the second link is to directly download all the data on the page, and the third link is the doi to the main publication. Note that the imagery zip file is over 2 GB so if the second link is not currently supported, use the first link to choose files to download.</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+    </stdorder>
+    <techpreq>Use of these files requires software capable of opening JPEG images and, if desired, capable of reading the associated EXIF information. Additionally, the location information is provided in a CSV file for the user to utilize with appropriate software.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20231204</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jin-Si R. Over</cntper>
+          <cntorg>U.S. Geological Survey, Woods Hole Coastal and Marine Science Center</cntorg>
+        </cntperp>
+        <cntpos>Geographer</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>U.S. Geological Survey</address>
+          <address>384 Woods Hole Rd.</address>
+          <city>Woods Hole</city>
+          <state>MA</state>
+          <postal>02543-1598</postal>
+        </cntaddr>
+        <cntvoice>508-548-8700 x2297</cntvoice>
+        <cntemail>whsc_data_contact@usgs.gov</cntemail>
+        <cntinst>The metadata contact email address is a generic address in the event the person is no longer with USGS.</cntinst>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
